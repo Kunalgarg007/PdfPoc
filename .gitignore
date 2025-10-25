@@ -1,0 +1,58 @@
+# Build results
+bin/
+obj/
+Debug/
+Release/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio
+.vs/
+
+# Rider / JetBrains
+.idea/
+
+# Logs
+*.log
+
+# NuGet packages
+*.nupkg
+*.snupkg
+*.nuspec
+packages/
+*.dll
+*.exe
+
+# Others
+*.cache
+*.pdb
+*.tmp
+
+# Publish output
+publish/
+*.dbmdl
+*.bak
+
+# Resharper / Code Analysis
+_ReSharper*/
+*.DotSettings.user
+
+# Test results
+TestResult*/
+*.trx
+
+# Configuration
+appsettings.Development.json
+secrets.json
+
+# Local tool settings
+.vscode/
+*.swp
